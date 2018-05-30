@@ -1,10 +1,6 @@
 ## SLACKWORTHY, LLC
 SlackWorthy is a software and product development holdings company, interested in building new things, solving unique problems, and creating consumer products for the greater benefit of humanity.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 ## Team
 ### Jack Langworthy
 **Ninayo**
@@ -91,7 +87,6 @@ License
 ----
 
 MIT
-
 
 **Free Software, Hell Yeah!**
 
